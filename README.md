@@ -1,6 +1,8 @@
 # GRACEPlus
 A Bombrush mod that adds extra QoL features to GRaces/Graffiti Races
 
+Thunderstore Page: https://thunderstore.io/c/bomb-rush-cyberfunk/p/SnailUSB/GRACEPLUS/
+
 # Current Features:
 - Will send a message in chat each time a GRACE round ends, telling you how long that round took.
 
