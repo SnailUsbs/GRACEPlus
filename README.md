@@ -14,6 +14,12 @@ Thunderstore Page: https://thunderstore.io/c/bomb-rush-cyberfunk/p/SnailUSB/GRAC
 
 - **Save ALL Match Results To A Text File:** This is an option that has to be enabled in the config, but when it is enabled it will save every grace match result to a text file in the mod folder with a time stamp, if you won or lost, the type of grace gamemode, and of course the time it took for the round to end
 
+# Commands:
+- **/showbest** : will show your best time of the map you are currently in
+- **/timeclear** : Will delete your best time of the map you are currently in
+- **/timeclearall** : Will delete your best time on all maps
+- **/gracestats** : will show you your GRACE stats
+
 # Future Features:
 - Track your wins per map session
 - reset props at the start of each round
