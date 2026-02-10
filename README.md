@@ -3,6 +3,8 @@ A Bombrush mod that adds extra QoL features to GRaces/Graffiti Races
 
 Thunderstore Page: https://thunderstore.io/c/bomb-rush-cyberfunk/p/SnailUSB/GRACEPLUS/
 
+*v1.1.3 source code will uploaded once I confirm I'm done with all of the bug patches needed for it*
+
 # Current Features:
 - **GRACE Time tracker:** You will get a message in chat telling you how long each GRACE round was, and if it beat your best time, automically each time a round ends.
 
